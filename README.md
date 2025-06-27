@@ -4,10 +4,6 @@ This project applies a **Random Forest Classifier** to classify iris flowers int
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 📊 Dataset
 
 The Iris dataset contains 150 samples of iris flowers with the following features:
